@@ -1,6 +1,6 @@
 # Passing arguments to an action
 
-In this lesson, arguments are passed to the following actions:
+In this repository, arguments are passed to the following actions:
 
 - [actions/checkout](https://github.com/actions/checkout)
 - [actions/setup-java](https://github.com/actions/setup-java)
@@ -51,4 +51,3 @@ jobs:
         cd ./tomcat
         ant
 ```
-# GH_Actions_Tomcat
